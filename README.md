@@ -8,6 +8,7 @@
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/manojkrsde/)  
 
 ### 👨‍💻 Coding Profiles:
+- 🧠 [Leetcode](https://leetcode.com/u/manojkrsde/)
 - 🧠 [GeeksforGeeks](https://www.geeksforgeeks.org/user/manojkrsde/)
 - 🧩 [HackerRank](https://www.hackerrank.com/profile/manojkrsde)
 ---
