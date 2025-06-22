@@ -2,6 +2,15 @@
 
 🎯 **Backend Developer | Fullstack Trainer | Passionate about JavaScript, Node.js & Scalable Systems**
 
+## 🌐 Let’s Connect!
+
+- 📧 **Email:** manojkr.sde@gmail.com  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/manojkrsde/)  
+- 💻 [**GitHub (Code)**](https://github.com/manojkumar-0108)
+
+### 👨‍💻 Coding Profiles:
+- 🧠 [GeeksforGeeks](https://www.geeksforgeeks.org/user/manojkrsde/)
+- 🧩 [HackerRank](https://www.hackerrank.com/profile/manojkrsde)
 ---
 
 ## 💡 About Me
