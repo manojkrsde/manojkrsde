@@ -6,7 +6,6 @@
 
 - 📧 **Email:** manojkr.sde@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/manojkrsde/)  
-- 💻 [**GitHub (Old)**](https://github.com/manojkumar-0108)
 
 ### 👨‍💻 Coding Profiles:
 - 🧠 [GeeksforGeeks](https://www.geeksforgeeks.org/user/manojkrsde/)
@@ -64,3 +63,5 @@ At my current role, I deliver workshops and courses on:
 > _“I believe in writing clean, meaningful code and helping others grow through teaching and collaboration.”_
 
 Thanks for stopping by! 😊
+
+- 💻 [**GitHub (Old)**](https://github.com/manojkumar-0108)
