@@ -6,7 +6,7 @@
 
 - 📧 **Email:** manojkr.sde@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/manojkrsde/)  
-- 💻 [**GitHub (Code)**](https://github.com/manojkumar-0108)
+- 💻 [**GitHub (Old)**](https://github.com/manojkumar-0108)
 
 ### 👨‍💻 Coding Profiles:
 - 🧠 [GeeksforGeeks](https://www.geeksforgeeks.org/user/manojkrsde/)
@@ -58,18 +58,6 @@ At my current role, I deliver workshops and courses on:
 - **Databases**: MSSQL, MongoDB, Sequelize ORM  
 - **Cloud & DevOps Basics**: IBM Cloud, Docker, REST API design  
 - Mentoring students in **college hackathons** and **project-based learning**
-
----
-
-## 🌐 Let’s Connect!
-
-- 📧 **Email:** manojkr.sde@gmail.com  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/manojkrsde/)  
-- 💻 [**GitHub (Code)**](https://github.com/manojkumar-0108)
-
-### 👨‍💻 Coding Profiles:
-- 🧠 [GeeksforGeeks](https://www.geeksforgeeks.org/user/manojkrsde/)
-- 🧩 [HackerRank](https://www.hackerrank.com/profile/manojkrsde)
 
 ---
 
